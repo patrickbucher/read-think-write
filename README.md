@@ -1,4 +1,4 @@
-# About This Blog
+# The Idea
 
 2024-11-07
 
