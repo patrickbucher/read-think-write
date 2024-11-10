@@ -1,43 +1,83 @@
+@font-face {
+  font-family: "TeX Gyre Schola";
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(tex-gyre-schola-bold.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "TeX Gyre Schola";
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(tex-gyre-schola-bold-italic.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "TeX Gyre Schola";
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(tex-gyre-schola-italic.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "TeX Gyre Schola";
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(tex-gyre-schola.woff2) format("woff2");
+}
+
 body {
   font-family: "TeX Gyre Schola";
   background-color: #f0f0f0;
   color: #111;
-
   margin: 0 auto;
   padding: 1em 1.5em;
   max-width: 40em;
-
   text-align: justify;
   hyphens: auto;
-
   font-size: 20px;
 }
+
 h1 {
   font-style: italic;
   color: #555;
   font-size: 160%;
 }
+
 h1.mainTitle {
   font-style: normal;
   font-size: 180%;
 }
+
 .meta {
   font-style: italic;
   color: #999;
   font-size: 80%;
 }
+
 blockquote {
   color: #555;
   border-left: 2px solid #999;
   margin: 0 0 0 1em;
   padding: 0 0.75em;
 }
+
 a {
   color: #555;
 }
+
 a:visited {
   color: #999;
 }
+
 hr {
   display: block;
   width: 5em;

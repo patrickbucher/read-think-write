@@ -7,9 +7,7 @@
     <meta name="description" content="{{ .Site.Params.Meta.Description  }}" />
     <meta name="keywords" content="{{ .Site.Params.Meta.Keywords }}" />
     {{ $css := resources.Get "style.css" | minify }}
-    {{ $fontCss := resources.Get "tex-gyre-schola.css" | minify }}
     <link rel="stylesheet" type="text/css" href="{{ $css.RelPermalink }}" />
-    <link rel="stylesheet" type="text/css" href="{{ $fontCss.RelPermalink }}" />
     {{ with .OutputFormats.Get "rss" }}
     <link
       rel="{{ .Rel }}"
@@ -28,7 +26,10 @@
       {{ $i := sub $n $index }}
       <article>
       <h1 id="{{ $i }}">{{ $page.Params.Title }}</h1>
-      <p class="meta">#{{ $i }}, {{ time.Format "January 2, 2006" $page.Params.Date }}</p>
+      <p class="meta">
+        <a href="#{{ $i }}">#{{ $i }}</a>,
+        {{ time.Format "January 2, 2006" $page.Params.Date }}
+      </p>
       {{ $page.Content }}
       <hr>
       </article>
