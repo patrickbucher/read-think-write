@@ -1,0 +1,11 @@
+baseURL = "https://rtw.paedubucher.ch"
+languageCode = "en-us"
+title = "Read, Think, Write"
+
+[minify]
+minifyOutput = true
+
+[params]
+author.name = "Patrick Bucher"
+meta.description = "Personal Blog about Reading, Thinking, Writing"
+meta.keywords = "reading, thinking, writing"

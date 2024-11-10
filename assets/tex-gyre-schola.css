@@ -1,0 +1,43 @@
+@font-face {
+  font-family: TeX Gyre Schola;
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  src:
+    local("TeX Gyre Schola Bold"),
+    local("TeXGyreSchola-Bold"),
+    url(tex-gyre-schola-bold.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: TeX Gyre Schola;
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  src:
+    local("TeX Gyre Schola Bold Italic"),
+    local("TeXGyreSchola-BoldItalic"),
+    url(tex-gyre-schola-bold-italic.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: TeX Gyre Schola;
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  src:
+    local("TeX Gyre Schola Italic"),
+    local("TeXGyreSchola-Italic"),
+    url(tex-gyre-schola-italic.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: TeX Gyre Schola;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  src:
+    local("TeX Gyre Schola"),
+    local("TeXGyreSchola-Regular"),
+    url(tex-gyre-schola.woff2) format("woff2");
+}

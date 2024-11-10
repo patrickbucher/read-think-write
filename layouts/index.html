@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="{{ .Site.Params.Author.Name }}" />
+    <meta name="description" content="{{ .Site.Params.Meta.Description  }}" />
+    <meta name="keywords" content="{{ .Site.Params.Meta.Keywords }}" />
+    {{ $css := resources.Get "style.css" | minify }}
+    {{ $fontCss := resources.Get "tex-gyre-schola.css" | minify }}
+    <link rel="stylesheet" type="text/css" href="{{ $css.RelPermalink }}" />
+    <link rel="stylesheet" type="text/css" href="{{ $fontCss.RelPermalink }}" />
+    {{ with .OutputFormats.Get "rss" }}
+    <link
+      rel="{{ .Rel }}"
+      type="{{ .MediaType.Type }}"
+      href="{{ .Permalink }}"
+      title="{{ site.Title }}"
+    />
+    {{ end }}
+    <title>{{ .Site.Title }}</title>
+  </head>
+  <body>
+    {{ partial "header" . }}
+    <main>
+    {{ $n := len .Pages }}
+    {{ range $index, $page := .Pages }}
+      {{ $i := sub $n $index }}
+      <article>
+      <h1 id="{{ $i }}">{{ $page.Params.Title }}</h1>
+      <p class="meta">#{{ $i }}, {{ time.Format "January 2, 2006" $page.Params.Date }}</p>
+      {{ $page.Content }}
+      <hr>
+      </article>
+    {{ end }}
+    </main>
+    {{ partial "footer" . }}
+  </body>
+</html>
