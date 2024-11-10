@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-us">
   <head>
     <meta charset="UTF-8" />
@@ -19,22 +19,27 @@
     <title>{{ .Site.Title }}</title>
   </head>
   <body>
-    {{ partial "header" . }}
+    <header>
+      <h1 class="mainTitle">{{ .Site.Title }}</h1>
+    </header>
     <main>
-    {{ $n := len .Pages }}
-    {{ range $index, $page := .Pages }}
+      {{ $n := len .Pages }}
+      {{ range $index, $page := .Pages }}
       {{ $i := sub $n $index }}
       <article>
-      <h1 id="{{ $i }}">{{ $page.Params.Title }}</h1>
-      <p class="meta">
-        <a href="#{{ $i }}">#{{ $i }}</a>,
-        {{ time.Format "January 2, 2006" $page.Params.Date }}
-      </p>
-      {{ $page.Content }}
-      <hr>
+        <h1 id="{{ $i }}">{{ $page.Params.Title }}</h1>
+        <p class="meta">
+          <a href="#{{ $i }}">#{{ $i }}</a>, {{ time.Format "January 2, 2006" $page.Params.Date }}
+        </p>
+        {{ $page.Content }}
+        <hr />
       </article>
-    {{ end }}
+      {{ end }}
     </main>
-    {{ partial "footer" . }}
+    <footer>
+      <div class="meta">
+        © {{ .Site.Lastmod.Format "2006" }} by {{ .Site.Params.Author.Name }}
+      </div>
+    </footer>
   </body>
 </html>
