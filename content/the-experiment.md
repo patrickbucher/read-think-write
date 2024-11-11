@@ -1,6 +1,6 @@
 +++
 title = "The Experiment"
-date = "2024-11-10T15:14:00+02:00"
+date = 2024-11-10T15:14:00+01:00
 +++
 
 This blog is supposed to be an experiment. I'd like to practice three skills:

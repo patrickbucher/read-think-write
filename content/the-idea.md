@@ -1,6 +1,6 @@
 +++
 title = "The Idea"
-date = "2024-11-10T13:28:00+02:00"
+date = 2024-11-10T13:28:00+01:00
 +++
 
 Paul Graham's short and sober essay [Writes and
