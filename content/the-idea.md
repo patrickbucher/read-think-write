@@ -15,7 +15,7 @@ future.
 > [W]riting is thinking. In fact there's a kind of thinking that can only be
 > done by writing.
 
-This claim seems shaky, especially when one considers Sokrates, who didn't hold
+This claim seems shaky, especially when one considers Socrates, who didn't hold
 writing in high esteem. Paul Graham usually does not elaborate on his premises
 in his rather short essays. But let's accept this premise for the moment.
 
