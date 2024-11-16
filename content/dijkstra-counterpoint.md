@@ -9,7 +9,7 @@ compares two different composition styles:
 
 > There are very different programming styles. I tend to see them as Mozart
 > versus Beethoven. When Mozart started to write, the composition was finished.
-> He wrote the maniscript in one go. In beautiful handwriting, too. Beethoven
+> He wrote the manuscript in one go. In beautiful handwriting, too. Beethoven
 > was a doubter and a struggler, who started writing before he finished the
 > composition and then glued corrections onto the page. In one place he did this
 > nine times. When they peeled them, the last version proved identical to the
@@ -21,10 +21,11 @@ compares two different composition styles:
 > successful there. While it is one of the advantages of working with pen and
 > paper that when  you start a sentence, you should have it ready.
 
-The late Dijkstra wrote his texts using pen and paper. A quick glance into the
-[EWD Archive](https://www.cs.utexas.edu/~EWD/index07xx.html) suggests that
-Dijkstra switched from a type writer to his fountain pen (the _Montblanc
-Meisterstück_) as his main writing device in the early 1980s.
+Dijkstra sees the need to have the sentence ready as an advantage. The late
+Dijkstra wrote his texts using pen and paper. A quick glance into the [EWD
+Archive](https://www.cs.utexas.edu/~EWD/index07xx.html) suggests that Dijkstra
+switched from a typewriter to his fountain pen (the _Montblanc Meisterstück_) as
+his main writing device in the early 1980s.
 
 For Dijkstra, the process of writing is about bringing a finished thought to the
 page. He clearly is on the side of Mozart in this respect. Paul Graham seems to
@@ -43,7 +44,7 @@ programming](https://paulgraham.com/progbot.html).
 
 > How do you divide a program? The traditional approach is called top-down
 > design: you say "the purpose of the program is to do these seven things, so I
-> divide it into seven major subroutines. [...] Experienced Lisp programmers
+> divide it into seven major subroutines." [...] Experienced Lisp programmers
 > divide up their programs differently. As well as top-down design, they follow
 > a principle which could be called bottom-up design—changing the language to
 > suit the problem.
@@ -60,7 +61,7 @@ So you had to use it wisely. Even though paper became cheap later on, Dijkstra's
 writing and thinking style was shaped under the idea that you should get it
 right once you put in on paper.
 
-He supposedly designed his algorithm for finding the shortest paths between
+He supposedly designed his algorithm for finding the shortest path between
 nodes in a weighted graph (named after him as [Dijkstra's
 algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)) during a
 coffee break:
@@ -70,7 +71,7 @@ coffee break:
 > about whether I could do this, and I then designed the algorithm for the
 > shortest path. As I said, it was a twenty-minute invention.
 
-Not having pen and paper available was not an issue to him, quite to the
+Not having pencil and paper available was not an issue to him, quite to the
 contrary:
 
 > One of the reasons that it is so nice was that I designed it without pencil
@@ -78,9 +79,10 @@ contrary:
 > pencil and paper is that you are almost forced to avoid all avoidable
 > complexities.
 
-Dijkstra wrote and published the paper three years later. He also thought about
-the _shortest path_ problem a long time before, but he didn't bother writing
-about it until he solved the problem.
+Again, Dijkstra sees a constraint as something positive. He wrote and published
+the paper three years later. He also thought about the _shortest path_ problem a
+long time before, but he didn't bother writing about it until he solved the
+problem.
 
 This stands in contrast to Paul Graham's publication style (again from 
 [How to Write Usefully](https://paulgraham.com/useful.html)):
@@ -111,19 +113,18 @@ approach, at least not judging by the outcome. I like to listen to Mozart's and
 to Beethoven's music. And both Graham and Dijkstra wrote essays that I learned a
 lot from.
 
-Mozart is considered a genius, a _Wunderkind_. In the science of computer
-science, Dijkstra is considered a genius, too. When one thinks of a genius,
-people like Einstein or Mozart come to mind immediately; Beethoven less so, even
-though many consider him a genius. And while Paul Graham's work is highly
-influential, it is only so in the rather narrow field of IT startups and LISP
-programming.
+Mozart is considered a genius, a _Wunderkind_. In the field of computer science,
+Dijkstra is considered a genius, too. When one thinks of a genius, people like
+Einstein or Mozart come to mind immediately; Beethoven less so, even though many
+consider him a genius. And while Paul Graham's work is highly influential, it is
+only so in the rather narrow field of IT startups and LISP programming.
 
-Mozart _did_ work hard on his compositions, and so did Dijkstra on his
-algorithms. But most of their work supposedly took place in their mind before
-they put it onto the paper. Maybe the genius just has a bigger working memory.
-The need to switch to paper comes up much later in the process. A genius knows
-how to organize one's thoughts better without filing them. And he's obviously
-not afraid to loose them.
+Mozart did work hard on his compositions, and so did Dijkstra on his algorithms.
+But most of their work supposedly took place in their minds before they put it
+onto the paper. Maybe the genius just has a bigger working memory.  The need to
+switch to paper comes up much later in the process. A genius knows how to
+organize his thoughts better without laying them out physically before them.
+And he's obviously not afraid to loose them.
 
 Not being a genius, I feel quite comfortable developing my thinking _while_
 writing. Thinking about a problem for a long time just creates loops in my mind
@@ -133,13 +134,13 @@ me be especially careful. It's a good contrast to my usual jotting down my
 thoughts. And the result looks rather nice, even with my awful handwriting.
 
 So I won't try to adopt Dijkstra's or Mozart's style; this simply won't work out
-for me due to my rather limited mental capacity compared to Mozart or Dijkstra,
-and I simply was brought up with the iterative method due to the availability of
+for me due to my rather limited mental capacity compared to those geniuses, and
+I simply was brought up with the iterative method due to the availability of
 cheap paper and computers early in my life. Even back in school, we wrote all
 essays _twice_: One draft and one clean copy, of which the latter was handed in.
 
 So I'm feeling quite comfortable editing my texts multiple times before I submit
-them for publication. And I'm fully aware that probably nobody is going to read
+them to my website. And I'm fully aware that probably nobody is going to read
 them. I write for myself, but I don't like to read my name next to typos,
 grammatical mistakes, and poor reasoning. And I won't be ashamed for publishing
 corrections, which I'll make obvious.
