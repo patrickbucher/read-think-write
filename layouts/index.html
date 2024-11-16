@@ -27,7 +27,7 @@
       {{ range $index, $page := .Pages }}
       {{ $i := sub $n $index }}
       <article>
-        <h1 id="{{ $i }}">{{ $page.Params.Title }}</h1>
+        <h2 id="{{ $i }}">{{ $page.Params.Title }}</h2>
         <p class="meta">
           <a href="#{{ $i }}">#{{ $i }}</a>, {{ time.Format "January 2, 2006" $page.Params.Date }}
         </p>
@@ -37,9 +37,10 @@
       {{ end }}
     </main>
     <footer>
-      <div class="meta">
-        © {{ .Site.Lastmod.Format "2006" }} by {{ .Site.Params.Author.Name }}
-      </div>
+      <p class="copy">
+        © {{ .Site.Lastmod.Format "2006" }} by {{ .Site.Params.Author.Name }}. 
+        <a href="mailto:patrick.bucher@mailbox.org?subject={{ "Read, Write, Think" }}">Contact</a>
+      </p>
     </footer>
   </body>
 </html>

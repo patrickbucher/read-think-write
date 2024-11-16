@@ -46,18 +46,15 @@ body {
   font-size: 20px;
 }
 
-h1.mainTitle {
+h1 {
   font-style: normal;
   font-size: 160%;
-}
-
-h1, h2, h3 {
-  font-style: italic;
   color: #555;
 }
 
-h1 {
-  font-size: 140%;
+h2, h3 {
+  font-style: italic;
+  color: #555;
 }
 
 h2 {
@@ -68,10 +65,14 @@ h3 {
   font-size: 100%;
 }
 
-.meta {
+.meta, .copy {
   font-style: italic;
   color: #999;
   font-size: 80%;
+}
+
+.copy {
+    text-align: center;
 }
 
 blockquote {
