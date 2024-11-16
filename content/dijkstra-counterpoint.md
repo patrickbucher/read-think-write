@@ -21,7 +21,7 @@ compares two different composition styles:
 > successful there. While it is one of the advantages of working with pen and
 > paper that when  you start a sentence, you should have it ready.
 
-The late Dijkstra wrote is papers using pen and paper. A quick glance into the
+The late Dijkstra wrote his texsts using pen and paper. A quick glance into the
 [EWD Archive](https://www.cs.utexas.edu/~EWD/index07xx.html) suggests that
 Dijkstra switched from a type writer to his fountain pen (the _Montblanc
 Meisterstück_) as his main writing device in the early 1980s.
@@ -51,7 +51,8 @@ programming](https://paulgraham.com/progbot.html).
 Dijkstra, on the other hand, developed an operating system for a computer that
 wasn't even built yet. He had to get it right without receiving any feedback
 derived from running a program on actual hardware. LISP programmers, in
-contrast, use a REPL (read-evaluate-print loop) to get immediate feedback.
+contrast, use a REPL (read-evaluate-print loop) to get immediate feedback all
+the time.
 
 Having been born in 1930, Dijkstra received most of his education during and
 after World War II. Back in those days, paper probably was rare and expensive.
@@ -100,10 +101,47 @@ Having grown up with cheap paper and computers, my habits are more on Graham's
 to figure out if the two composers approached writing music differently: Did
 Beethoven work bottom-up by starting with a couple of nice tunes that he put
 together to great symphonies? And did Mozart start with a grand idea from which
-he worked down to the melodies?
+he worked down to the melodies? And most interestingly: How did Johann Sebastian
+Bach, whom I consider the most important composer of all time, approach his
+compositions?
 
 Arguably, both Beethoven and Mozart—and both Graham and Dijkstra—created great
-works and influenced their field of expertise. So there's no "right" or "wrong"
+works and influenced their fields of expertise. So there's no "right" or "wrong"
 approach, at least not judging by the outcome. I like to listen to Mozart's and
-Beethoven's music. And both Graham and Dijkstra wrote essays that I learned a
+to Beethoven's music. And both Graham and Dijkstra wrote essays that I learned a
 lot from.
+
+Mozart is considered a genius, a _Wunderkind_. In the science of computer
+science, Dijkstra is considered a genius, too. When one thinks of a genius,
+people like Einstein or Mozart come to mind immediately; Beethoven less so, even
+though many consider him a genius. And while Paul Graham's work is highly
+influential, it is only so in the rather narrow field of IT startups and LISP
+programming.
+
+Mozart _did_ work hard on his compositions, and so did Dijkstra on his
+algorithms. But most of their work supposedly took place in their mind before
+they put it onto the paper. Maybe the genius just has a bigger working memory.
+The need to switch to paper comes up much later in the process. A genius knows
+how to organize one's thoughts better without filing them. And he's obviously
+not afraid to loose them.
+
+Not being a genius, I feel quite comfortable developing my thinking _while_
+writing. Thinking about a problem for a long time just creates loops in my mind
+rather than insights. Even though I bought a _Montblanc Meisterstück_ a couple
+of years ago, I'll never become a Dijkstra. However, writing with that pen lets
+me be especially careful. It's a good contrast to my usual jotting down my
+thoughts. And the result looks rather nice, even with my awful handwriting.
+
+So I won't try to adopt Dijkstra's or Mozart's style; this simply won't work out
+for me due to my rather limited mental capacity compared to Mozart or Dijkstra,
+and I simply was brought up with the iterative method due to the availability of
+cheap paper and computers early in my life. Even back in school, we wrote all
+essays _twice_: One draft and one clean copy, of which the latter was handed in.
+
+So I'm feeling quite comfortable editing my texts multiple times before I submit
+them for publication. And I'm fully aware that probably nobody is going to read
+them. I write for myself, but I don't like to read my name next to typos,
+grammatical mistakes, and poor reasoning. And I won't be ashamed for publishing
+corrections, which I'll make obvious.
+
+For me, writing—and thinking—is more about the process, and less about the result.
