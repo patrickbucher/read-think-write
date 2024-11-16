@@ -52,7 +52,8 @@ h1 {
   color: #555;
 }
 
-h2, h3 {
+h2,
+h3 {
   font-style: italic;
   color: #555;
 }
@@ -65,20 +66,21 @@ h3 {
   font-size: 100%;
 }
 
-.meta, .copy {
+.meta,
+.copy {
   font-style: italic;
   color: #999;
   font-size: 80%;
 }
 
 .copy {
-    text-align: center;
+  text-align: center;
 }
 
 blockquote {
   color: #555;
   border-left: 2px solid #999;
-  margin: 0 0 0 1em;
+  margin: 0;
   padding: 0 0.75em;
 }
 
