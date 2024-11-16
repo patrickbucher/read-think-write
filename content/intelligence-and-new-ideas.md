@@ -1,5 +1,5 @@
 ---
-title: "Paul Graham: Intelligence and New Ideas"
+title: "Paul Graham on Intelligence and New Ideas"
 date: 2024-11-16T20:11:12+01:00
 ---
 
@@ -10,7 +10,7 @@ ideas. Summarized:
 > Einstein wasn't just smart, but had important new ideas. Intelligence isn't
 > enough for high achievements. Discovering new ideas is more desirable than
 > being smart. The idea that intelligence is the most important quality is an
-> illusion fed to us since childhood. Having new ideas is historically less
+> illusion fed to us since childhood. Having new ideas was historically less
 > important than winning in conversation thanks to superior intelligence. What
 > additional qualities are required for having new ideas? Unlike intelligence,
 > many of those qualities can be cultivated. Once you accept that intelligence
@@ -30,9 +30,12 @@ and stress—are life-style choices that require prioritizing. (Earning less to
 have more time is a hard tradeoff to make.)
 
 The essay is the perfect text form to discover new ideas. I don't know if the
-word has a latin source—and since _this_ is an essay, I don't bother looking it
+word has a latin origin—and since _this_ is an essay, I don't bother looking it
 up. But _essayer_ is a French verb that means "trying (out)", so an essay is a
-text in which the author tries out new ideas.
+text in which the author tries out new ideas _as_ he writes. Paul Graham again:
+
+> [Y]ou don't think of the ideas first, and then merely write them down. There
+> is a kind of thinking that one does by writing[.]
 
 While summarizing the essay, particularly the paragraph about having an
 obsessive interest in a particular topic, I had a realization that is linked to
@@ -49,12 +52,9 @@ together with a few select like-minded people… well, I actually didn't try tha
 out yet. I actually had to stop in the middle of the sentence here to reconsider
 the issue.
 
-> [Y]ou don't think of the ideas first, and then merely write them down. There
-> is a kind of thinkng that one does by writing[.]
-
 If I would like to have good ideas once in a while, maybe I just should keep
-clear of people that don't share my views on how to organize work on a daily
-basis. Other annoyances are business people that incessantly follow each trend
+clear of people that don't share my views on how to organize one's work. Other
+annoyances to be avoided are business people that incessantly follow each trend
 of the year, e.g. adding AI to every product (and conversation) in 2024, or
 using a blockchain for anything in 2021. They might be good customers to a snake
 oil salesman, which is not the career path I've chosen.
@@ -68,20 +68,19 @@ for actual problem solving.
 The way I worked on this essay looks antiquated: I copy the original essay in a
 text file, add some YAML-header for the meta data, then I convert the text using
 Pandoc (using the troff filter) to a nice but simple PDF, which I print out. I
-read the essay once and highlight the most important passages of every
-paragraph. On the second reading, I summarize each paragraph with a single
-sentence. When I'm done, I start a new essay by first summarizing the text I've
-just read.
+read the essay once and highlight the most important passages. On the second
+reading, I summarize each paragraph with a single sentence. When I'm done, I
+start a new essay by first summarizing the text I've just read.
 
-This might not be the most _efficient_ way of summarizing the text, but it's
-certainly the most _effective_ way, because it lets me get into writing mode,
-while my mind is already charged with new ideas that already have been processed
-three times in different ways—reading, summarizing paragraphs by hand,
-summarizing the entire text at the keyboard. Most other people would rather
-summarize the text using some AI tool and then stare at the screen with no idea
-what to write about it. Very efficient, but totally ineffective.
+This might not be the most _efficient_ way to summarize the text, but it's
+certainly the most _effective_ way, because it lets me get into writing mode
+afterwards, while my mind is already charged with new ideas that already have
+been processed three times in different ways—reading, summarizing paragraphs by
+hand, summarizing the entire text at the keyboard. Most other people would
+rather summarize the text using some AI tool and then stare at the screen with
+no idea what to write about it. Very efficient, but totally ineffective.
 
-This might be a new quality for discovering new ideas: Replacing efficiency by
+This might be another quality for discovering new ideas: Replacing efficiency by
 effectiveness. Rather go deep the hard way than stay shallow the easy way. Real
-knowledge works requires depth, and depth requires effectiveness instead of
+knowledge work requires depth, and depth requires effectiveness instead of
 efficiency.
