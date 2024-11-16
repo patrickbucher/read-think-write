@@ -21,7 +21,7 @@ compares two different composition styles:
 > successful there. While it is one of the advantages of working with pen and
 > paper that when  you start a sentence, you should have it ready.
 
-The late Dijkstra wrote his texsts using pen and paper. A quick glance into the
+The late Dijkstra wrote his texts using pen and paper. A quick glance into the
 [EWD Archive](https://www.cs.utexas.edu/~EWD/index07xx.html) suggests that
 Dijkstra switched from a type writer to his fountain pen (the _Montblanc
 Meisterstück_) as his main writing device in the early 1980s.
