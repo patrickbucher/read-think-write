@@ -1,5 +1,5 @@
 ---
-title: "Intelligence and New Ideas"
+title: "Paul Graham: Intelligence and New Ideas"
 date: 2024-11-16T20:11:12+01:00
 ---
 
@@ -64,3 +64,24 @@ people with whom I work together. The mode of working could become a
 selling-point: I'm not jumping on the AI bandwagon, nor will I spend my days in
 video conferences that achieve nothing; but I'm offering focused deep work hours
 for actual problem solving.
+
+The way I worked on this essay looks antiquated: I copy the original essay in a
+text file, add some YAML-header for the meta data, then I convert the text using
+Pandoc (using the troff filter) to a nice but simple PDF, which I print out. I
+read the essay once and highlight the most important passages of every
+paragraph. On the second reading, I summarize each paragraph with a single
+sentence. When I'm done, I start a new essay by first summarizing the text I've
+just read.
+
+This might not be the most _efficient_ way of summarizing the text, but it's
+certainly the most _effective_ way, because it lets me get into writing mode,
+while my mind is already charged with new ideas that already have been processed
+three times in different ways—reading, summarizing paragraphs by hand,
+summarizing the entire text at the keyboard. Most other people would rather
+summarize the text using some AI tool and then stare at the screen with no idea
+what to write about it. Very efficient, but totally ineffective.
+
+This might be a new quality for discovering new ideas: Replacing efficiency by
+effectiveness. Rather go deep the hard way than stay shallow the easy way. Real
+knowledge works requires depth, and depth requires effectiveness instead of
+efficiency.
