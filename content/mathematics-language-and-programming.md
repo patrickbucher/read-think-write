@@ -92,10 +92,10 @@ just then tackle their applications to programming.
 
 _Concrete Mathematics_ by Knuth et al. is certainly a good introduction for the
 kind of mathematics needed in computer science. With its roughly 450 pages, it's
-considerably longer than _The Science of Programming_. It has exercises on six
-levels, of which I only consider doing the ones of the lower two or three
-levels: I'd like to become a mathematically inclined, competent programmer, not
-a mathematician, after all.
+considerably longer than _The Science of Programming_. It featuers exercises on
+six difficulty levels, of which I only consider doing the ones of the lower two
+or three levels: I'd like to become a mathematically inclined, competent
+programmer, not a mathematician, after all.
 
 I always saw mathematics as an exercise in purification of the mind. It also
 purifies solutions for everyday programming problems, which then require far
