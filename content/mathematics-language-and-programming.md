@@ -1,5 +1,5 @@
 ---
-title: "Mathematics and Language"
+title: "Mathematics, Language, and Programming"
 date: 2024-11-21T19:33:27+01:00
 draft: true
 ---
