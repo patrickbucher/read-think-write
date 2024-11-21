@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 > Independent-mindedness seems to be more a matter of nature than nurture. Which
 > means if you pick the wrong type of work, you're going to be unhappy.
 
