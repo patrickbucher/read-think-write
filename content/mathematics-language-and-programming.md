@@ -7,7 +7,7 @@ I haven't been writing a lot recently, but I read a couple of
 [EWDs](https://www.cs.utexas.edu/~EWD/) out of frustration. I'm seriously
 thinking about reading either _A Discipline of Programming_ by Dijkstra himself,
 or _The Science of Programming_ by David Gries, which is accompanied by a
-Foreword written by Dijkstra. When I read something written by Dijkstra, I
+foreword written by Dijkstra. When I read something written by Dijkstra, I
 always agree with him—as far as I understand the subject he's writing about.
 
 One quote from [EWD
