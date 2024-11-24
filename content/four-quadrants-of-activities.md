@@ -120,4 +120,25 @@ are a good example for this.
 At the beginning, their appeal is stronger then the remorse we feel after the
 interaction. It's possible to meet again, to feel "high" once more, and no harm
 is done, at least not initially. However, the more dependent we become of such
-demons
+demons—like from a drug. And with drugs, the dosage needs to be increased to
+still feel something positive, but it can only be increased up to some point.
+
+The difference between separating from a truly loved one to a demon is quite
+subtle. If you really trust another person, feeling separated from that person
+might make you sad, but you have enough trust in them so that the relationship
+is not being damaged by that separation, however long it might be. When you're
+separated from a demon, you're constantly anxious and think that the
+relationship will be harmed if you're not getting in touch with one another very
+soon again. Soon, the fear of loss becomes way bigger than the positive
+experience you're getting out of the actual interaction with that demon.
+
+Ask yourself: Why do I want to deal with a particular person again? Is it,
+because you can only trust that person _during_ the interaction? This is not
+trust, but rather control: You're only certain that the other person doesn't
+harm your mutual relationship when you see hard evidence for it right before
+you. Real trust is quite the opposite: You have no idea what the other person is
+doing at the moment, but you're not in the least suspicious that something
+harmful to the relationship might be going on.
+
+_Third insight_: If trust is only perceived _during_ an interaction with another
+person, we're in quadrant IV—dealing with a demon.
