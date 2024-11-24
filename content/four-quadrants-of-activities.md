@@ -1,10 +1,9 @@
 ---
-title: "Four Quadrants of Activities"
+title: "Four Quadrants of Activities—and People"
 date: 2024-11-24T06:59:51+01:00
-draft: true
 ---
 
-Our activities can be classified in four quadrants. The x-axis shows, how we
+Our activities can be classified into four quadrants. The x-axis shows, how we
 feel _during_ an activity, and the y-axis shows, how we feel _after_ the
 activity. Both axes range from feeling bad—left/bottom—to feeling
 good—right/top. (A z-axis showing how we feel _before_ the activity is not
@@ -63,7 +62,7 @@ probably were the worst offenders in my youth. They completely overexcite us,
 which not only makes it impossible to do any meaningful things for the rest of
 the day, but also cause bad sleep, ruining the next day.
 
-## People
+## People—and Demons
 
 What about people? Can we classify them using the same quadrants? How do we feel
 while and after interacting with different kinds of people?
