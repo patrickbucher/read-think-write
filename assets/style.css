@@ -1,41 +1,37 @@
 @font-face {
-  font-family: "TeX Gyre Schola";
+  font-family: Bitter;
   font-style: normal;
   font-weight: 700;
   font-stretch: 100%;
-  font-display: swap;
-  src: url(tex-gyre-schola-bold.woff2) format("woff2");
+  src: url(bitter-bold.woff2) format("woff2");
 }
 
 @font-face {
-  font-family: "TeX Gyre Schola";
+  font-family: Bitter;
   font-style: italic;
   font-weight: 700;
   font-stretch: 100%;
-  font-display: swap;
-  src: url(tex-gyre-schola-bold-italic.woff2) format("woff2");
+  src: url(bitter-bold-italic.woff2) format("woff2");
 }
 
 @font-face {
-  font-family: "TeX Gyre Schola";
+  font-family: Bitter;
   font-style: italic;
   font-weight: 400;
   font-stretch: 100%;
-  font-display: swap;
-  src: url(tex-gyre-schola-italic.woff2) format("woff2");
+  src: url(bitter-italic.woff2) format("woff2");
 }
 
 @font-face {
-  font-family: "TeX Gyre Schola";
+  font-family: Bitter;
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
-  font-display: swap;
-  src: url(tex-gyre-schola.woff2) format("woff2");
+  src: url(bitter.woff2) format("woff2");
 }
 
 body {
-  font-family: "TeX Gyre Schola";
+  font-family: "Bitter";
   background-color: #f0f0f0;
   color: #111;
   margin: 0 auto;
