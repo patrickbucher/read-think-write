@@ -96,3 +96,18 @@ hr {
   border-top: 2px solid #999;
   margin: 2em auto;
 }
+
+ol,
+ul {
+  margin: 0;
+  padding-left: 1em;
+}
+
+li,
+p {
+  margin: 1em 0;
+}
+
+ul li {
+  list-style-type: "‒ ";
+}
