@@ -23,7 +23,7 @@ at least it pays the bills, right? Especially those for your next trip to some
 _dream destination_, for which you spend considerable time being trapped in an
 airplane with annoying people you'd never ever let into your home.
 
-The only things that matters is your moment to moment experience of everyday
+The only thing that matters is your moment to moment experience of everyday
 life. Many of those moments are going to suck, so you make them better suck in
 ways of your own choosing. I rather get up at 4:30 every morning to spend an
 hour on my rowing ergometer than to get up at 6:30 every morning to spend an
