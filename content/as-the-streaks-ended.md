@@ -26,7 +26,7 @@ book annoyed me beyond the field of web development; I actually no longer
 enjoyed programming. With some distance, the motivation usually comes back after
 a couple of days.
 
-## Two Days Later
+### Two Days Later
 
 Today, I already was able to get up at 4:30 again. I rowed for an hour and
 managed to do 13.1 kilometers, which is not bad. I intentionally went slowly,
