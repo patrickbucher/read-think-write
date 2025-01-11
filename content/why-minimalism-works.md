@@ -9,8 +9,8 @@ question of what to remove and what to retain.
 
 New year's resolutions usually focus on the _what_: exercising more, getting
 enough sleep, finally learning how to play the guitar, etc. Sometimes, they are
-also also about the _what not_: stop smoking, less shopping, no more
-binge-watching, etc.
+also about the _what not_: stop smoking, less shopping, no more binge-watching,
+etc.
 
 The _whats_ are often picked without knowing where the time and energy for
 those activities is supposed to come from. And the _what nots_ don't answer the
@@ -38,7 +38,7 @@ certain behaviour, also define a proper alternative to fill the void.
 
 This is not just some kind of neurotic game to fill in all the gaps of a
 two-column table, but it actually clarifies the costs of things: Activities
-require time and energy, so you'd better clarify what you're willing to
+require time and energy, so you'd better figure out what you're willing to
 sacrifice for it. Weaning yourself off of some bad habits requires a lot of
 willpower, so you'd better make sure you have an enjoyable but less harmful
 replacement activity prepared. It only works if you're taking the time to
@@ -51,5 +51,6 @@ addictions, you rarely ever think about going back by re-purchasing things you
 just discarded. It's rather like exercising: it feels a bit painful at first,
 but after a short time, you'd like to repeat the experience by discarding more
 useless stuff. You'll also hardly remember what you've thrown out a couple of
-days later, so that any guilt of discarding supposedly "good" items vanished
-quickly.
+days ago, so that any guilt of discarding supposedly "good" items vanished
+quickly. And trust me: your ego is big enough so that you'll not repurchase
+items you just discarded, which would be an admission of your poor judgement.
