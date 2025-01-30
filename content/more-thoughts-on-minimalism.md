@@ -1,7 +1,6 @@
 ---
 title: "More Thoughts on Minimalism"
 date: 2025-01-29T13:44:29+01:00
-draft: true
 ---
 
 I wrote about why minimalism works and new year's resolutions don't [the other
@@ -43,4 +42,71 @@ discarding_ a chance over _impulse shopping_, just for the dopamine hit.
 
 ### Insight
 
+I'm selling and discarding a lot of books now, mostly technical books. I usually
+buy a print/ebook bundle, and often so with an additional discount code. So I
+usually pay roughly $40 for such a bundle, with some additional shipping fees
+that are reasonable when you buy multiple books at once. Here's where it becomes
+unreasonable: you add more books to your cart just to make the shipping fee look
+reasonable, buying books you don't actually need.
+
+Due to this pattern, I acumulated quite a collection of print books on
+programming and other IT subjects. Besides my Kindle, which is now almost 10
+years old, but still does its job, I own a PocketBook InkPad with a large
+display that allows me to read programming books quite comfortably. I just
+discovered that I can upload my own fonts, and with a combination of the font
+Bitter (which I also use on this page), Lato, and Fantasque Sans Mono, reading
+technical books on that device is a pleasure.
+
+It's pleasurable enough that I decided to get rid of most of my technical books
+that I bought in a print/ebook bundle. I'm selling those books on Ricardo, which
+is a Swiss platform similar to eBay. I offer those book in auctions starting at
+the lowest possible price of CHF 1.- to make sure I'll get rid of them. If
+nobody wants to buy them, I'll gift them to friends, students—or I'll just throw
+them away, for their market value is empirically zero.
+
+Doing so, my technical book collection is about to shrink to a reasonable size.
+But what's more interesting: I don't feel the urge to buy any more technical
+books! Those purchases no longer appeal to me, because I noticed how tedious it
+is to deal with those books afterwards: You either make proper use of them by
+reading them carefully, nay, by _working_ through them, which you can do at a
+rate of roughly one book per month or less. Or you sell them, which takes more
+effort then buying them in the first place—not accounting for the money to be
+earned to pay for them. You can also just throw them away, which is rather
+painful, especially if the books are any good. (Giving them away as gifts
+doesn't feel as good as many people describe it, probably because I'm used to
+giving books away, albeit ones that I actually read and won't re-read.)
+
+It's one thing to _understand_ that you don't need to buy any more stuff, but
+it's way more compelling to actually _feel_ the pain of discarding things you
+spent good money on. But where there is pain, there is also healing and relief.
+I'm cured of buying books I don't absolutely want to read. And while discarding
+books, I also decided to retain some very good ones, which reveals my real
+subjects of interest.
+
 ### Result
+
+The result of decluttering is the most obvious and compelling reason for
+minimalism: You end up with only the things you actually like. I no longer have
+to think about which shirt I put on in the morning, I just take the topmost off
+of my stack in the dresser. The bookshelf is finally big enough to allow for
+_random access_ to every book: I no longer have to put aside a pile of books
+from the first row in order to access the books in the second row; I can just
+pick a book single-handedly. And I'm also aware of what books, clothes, etc. I
+have, so that I can make productive use of everything I own.
+
+However, those results are only temporary. Going through a round of discarding
+books or clothes leaves me with the impression that I can't possibly discard any
+more things. A week or so later, I not only forgot about what I got rid of
+already, but I find new things I actually don't want to keep.
+
+Once you stepped over your initial loss aversion, you feel less and less remorse
+when getting rid of things on which you spent quite some money, be it by selling
+them for pennies on the dollar, or by simply throwing them away.
+
+---
+
+I always believed that minimalism works and improves your life. However, in
+order to pull through, I need to understand the _why_ of minimalism. I'll
+further think about the reasons behind its effectiveness, preferably while
+carrying bags of discardable items to the dump—or rather while walking away
+from there relieved of my burden.
