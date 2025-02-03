@@ -27,7 +27,7 @@ development, even if it's just the simplest math. A couple of examples:
    three decimal digits […]"_ in the introduction to _Test Driven Development:
    By Example_. The code is not tricky, it just requires simple arithmetic. If
    you'd like to round a money amount `x` to, say, a granularity of 0.05, just
-   multiply it by 1/0.05 (i.e. scaling it up), round it, and divide it by 1/1.05
+   multiply it by 1/0.05 (i.e. scaling it up), round it, and divide it by 1/0.05
    (i.e. scaling it down): `round(x*(1.0/0.05))/(1.0/0.05)`.  It's a literal
    one-liner. What bothers me is not the word _tricky_, because this one-liner
    can be considered an arithmetic trick, but the word _"all"_, which certainly
