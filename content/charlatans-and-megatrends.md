@@ -7,7 +7,7 @@ When you improve something, you start with a problem and think about various
 solution approaches. Every solution approach requires actions, which, in turn,
 require _tools_ in the broadest sense. The tools are only a means to an end:
 first comes the problem, then the solution approaches (plural)—and only then
-you start thinking about which tools are the proper ones needed to implement a
+you start thinking about which tools are the proper ones needed to implement
 the most promising approach.
 
 But I frequently observe quite the opposite: One starts with a tool, which
@@ -16,20 +16,21 @@ like is neglected. The cart is put before the horse. But is taking the cart
 even the best solution? Or is walking or just staying home maybe a more
 reasonable approach?
 
-Behind so-called _Megatrends_ are often nothing more than a disguise for a bias
-to use certain kinds of tools. Take _Digitalization_ as an example, which is
-nothing more than a bias to use computers over other tools to solve all
-possible kinds of issues. If it's digital, it must be good; using computers is
-good. The actual problems to be solved are hardly analyzed. Solution approaches
-not involving the respective tool aren't even considered. The solution space is
+So-called _megatrends_ are often nothing more than a disguise for a bias to use
+certain kinds of tools. Take _Digitalization_ as an example, which is nothing
+more than a bias to use computers over other tools to solve all possible kinds
+of issues. If it's digital, it must be good; using computers is good. The
+actual problems to be solved are hardly analyzed. Solution approaches not
+involving the respective tool aren't even considered. The solution space is
 heavily restricted right at the beginning by the tool that shall be used.
 
 A charlatan first has to convince his customers that they have a problem, for
-which he has the proper solution—or the proper tool for that solution. Again,
-first comes the tool bringing forth a solution approach, which then only needs
-to be argued into the gap between the supposed problem and a desired solution.
+which he has the proper solution—or the proper tool supporting that solution.
+Again, first comes the tool bringing forth a solution approach, which then only
+needs to be argued into the gap between the supposed problem and a desired
+solution.
 
-Since the argument starts with the tool, the charlatan's tool has to support
+Since the argument starts with the tool, the charlatan's offer has to support
 the solutions to a vast set of problems. As snake oil in the Wild West
 supposedly cured gullible customers from all sorts of ailments, megatrends as
 _Digitalization_, _Artificial Intelligence_, and the _Blockchain_ (at least
@@ -50,4 +51,4 @@ Be wary if…
    problems, and
 3. you first need to be convinced that you actually have a problem.
 
-You might be dealing with a charlatan—or a _Megatrend_.
+You might be dealing with a charlatan—or a megatrend.
