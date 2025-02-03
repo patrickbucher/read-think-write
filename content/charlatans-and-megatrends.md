@@ -44,7 +44,7 @@ their use is even harmful (notwithstanding the opportunity costs of trying
 them) is nothing a charlatan looses sleep over. Just sell the solution, and let
 the customer deal with the problem: this is how to make a lot of many fast.
 
-Be wary if…
+Be wary, if…
 
 1. somebody wants to sell you a tool,
 2. this tool supposedly solves all kinds of different or even unrelated
