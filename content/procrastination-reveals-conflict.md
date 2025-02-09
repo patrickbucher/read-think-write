@@ -6,10 +6,10 @@ date: 2025-02-09T09:42:25+01:00
 I'm re-reading Neil A. Fiore's _The Now Habit_ to once again tackle my issue
 with procrastination, which is still my biggest struggle concerning my
 professional life. While few would describe me as a chronic procrastinator—I
-handed in my Bachelor's thesis one week early, for example—there are a lot of
-things I do procrastinate. My internal process is usually messier than the
-output I produce, and only I know the struggle involved to achive those
-results.
+handed in my Bachelor's thesis one week early, and I even file my taxes on
+time—there are some important things I do procrastinate. My internal process is
+usually messier than the output I produce, and only I know the struggle
+involved for achieving the usual good results.
 
 Having read _The Now Habit_ before, I struggled to implement the protocols
 described therein. I had a hunch that one major issue, which probably not
@@ -27,7 +27,8 @@ tend to be more conflict avoidant than extroverts, because arguing things out
 with other people drains the introvert's social battery, while just analyzing
 the conflict doesn't. (However, the avoidant behaviour of analyzing instead of
 arguing provides the introvert with good arguments for dealing with the
-conflict later. This could become useful.)
+conflict later. This could become useful, but only if the conflict is
+revisited.)
 
 One strong indicator for my hunch is that I hardly procrastinate in some areas
 of my life, while I procrastinate a lot in others. Writing papers or finishing
@@ -40,9 +41,11 @@ correlation between unresolved conflicts at the workplace and procrastination.
 I love to program, but oftentimes I cannot get started. Once I think about a
 task, all possible kinds of issues and eventualities start to unfold. This is
 not bad per se, because my mind jumps on analyzing the task on autopilot, which
-does neither require discipline nor willpower. However, with all those
-stumbling blocks I'm becoming aware of, I can't start writing code in a
-carefree manner. I'm too worried about all kinds of possible issues.
+does neither require discipline nor willpower. Even avoiding the task for some
+time can be productive, for my subconscious keeps dealing with it once I
+internalized the problem to be solved. However, with all those stumbling blocks
+I'm becoming aware of, I can't start writing code in a carefree manner. I'm too
+worried about all kinds of possible issues.
 
 One issue I frequently have is not of a technical but of a social nature: Even
 though I have a solution in my mind that makes sense to me, I already
@@ -125,13 +128,13 @@ Single Source of Unquestionable Truth. However, it would be interesting to know
 whether or not the word "prototype" was part of the prompt that was supposed to
 _"challenge the code"_.
 
-Not only was the code dragged towards an enterprisey direction, but also did
-the technical decisions reflect the power structures of the organisation rather
-than the synthesis of a discussion among peers. Also, time wasn't spent on
-finishing the prototype, but rather on refactoring it while exercising power
-over the other developers.
+Not only was the code dragged towards an enterprisey direction, one tiny
+refactoring at a time, but also did the technical decisions reflect the power
+structures of the organisation rather than the synthesis of a discussion among
+peers. Also, time wasn't spent on finishing the prototype, but rather on
+refactoring it while exercising power over the other developers.
 
-My pragmatic decision of not pushing back (or rahter: indecision) seemed
+My pragmatic decision of not pushing back (or rather: indecision) seemed
 reasonable at the time. The goal was to finish a prototype quickly, i.e.
 without wasting time on supposedly silly arguments. However, when I look at the
 bigger context—figuring out if this collaboration is fruitful for both
@@ -146,7 +149,7 @@ conflicts are unavoidable, and can even be productive! The question is, _how_
 those conflicts are carried out. Are we arguing as peers and are we capable of
 compromising in a way that works for both sides, or is one party required to
 concede all the time because the other party exercises power using appeals to
-anonymous and absent authority?
+anonymous and absent authority or based on "owning" the project?
 
 Will carrying out this conflict have an effect on my procrastination within
 said project? If so, the resolution of this yet _unresolved_ but no longer
