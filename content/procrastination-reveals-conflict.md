@@ -42,13 +42,13 @@ task, all possible kinds of issues and eventualities start to unfold. This is
 not bad per se, because my mind jumps on analyzing the task on autopilot, which
 does neither require discipline nor willpower. However, with all those
 stumbling blocks I'm becoming aware of, I can't start writing code in a
-carefree manner. I'm too worrying about all kinds of possible issues.
+carefree manner. I'm too worried about all kinds of possible issues.
 
 One issue I frequently have is not of a technical but of a social nature: Even
 though I have a solution in my mind that makes sense to me, I already
 anticipate the reaction of the other programmers working on the same code base.
 I had a lot of annoying discussions following the pattern _"Why did you do X
-and not Y?"_. Those discussions revolve sometimes around technical issues, but
+and not Y?"_. Those discussions sometimes revolve around technical issues, but
 usually just around personal preferences. While the former discussions are
 productive and facilitate learning, the latter ones are just annoying.
 
@@ -94,7 +94,8 @@ controller function, that is. However, my former co-worker insisted on
 separating the service code from the controller code. Being one step away from
 the clichéd three layer architecture, we refactored the code, which is now full
 of single-line functions that just hand their parameters over to the next lower
-layer: filling in forms instead of solving problems.
+layer: filling in forms instead of solving problems, as if we were writing Java
+code.
 
 We didn't argue that day, as we just wanted to go ahead and implement the CRUD
 operations for the most crucial entities. And nobody had strong opinions
@@ -119,9 +120,10 @@ played the drums and listened to a podcast instead.
 It was only this morning that I realized what was going on: My former co-worker
 argued using appeals to an _anonymous and absent authority_. Of course _one_
 has to separate the controller code from the service code, that's how _it_ is
-done. _Everybody_ does it like that. And there's no arguing against ChatGPT;
-however, it would be interesting to know whether or not the word "prototype"
-was part of the prompt that was supposed to _"challenge the code"_.
+done. _Everybody_ does it like that. And there's no arguing against ChatGPT—the
+Single Source of Unquestionable Truth. However, it would be interesting to know
+whether or not the word "prototype" was part of the prompt that was supposed to
+_"challenge the code"_.
 
 Not only was the code dragged towards an enterprisey direction, but also did
 the technical decisions reflect the power structures of the organisation rather
@@ -129,14 +131,15 @@ than the synthesis of a discussion among peers. Also, time wasn't spent on
 finishing the prototype, but rather on refactoring it while exercising power
 over the other developers.
 
-My pragmatic choice of not pushing back seemed reasonable at the time. The goal
-was to finish a prototype quickly, i.e. without wasting time on supposedly silly
-arguments. However, when I look at the bigger context—figuring out if this
-collaboration is fruitful for both parties—we'd better argued it out. Quitting
-my job to work on my own terms comes with financial downsides. So at least I
-want to have the upside of working on my own terms. Working on enterprisey code
-within an according power structure I can as well do _with_ decent financial
-compensation.
+My pragmatic decision of not pushing back (or rahter: indecision) seemed
+reasonable at the time. The goal was to finish a prototype quickly, i.e.
+without wasting time on supposedly silly arguments. However, when I look at the
+bigger context—figuring out if this collaboration is fruitful for both
+parties—we'd better argued it out. Quitting my job to work for myself comes
+with financial downsides. So at least I want to have the upside of working on
+my own terms, or at least on terms that are acceptable for me. Working on
+enterprisey code within an according power structure I can as well do somewhere
+else, but _with_ decent financial compensation.
 
 Therefore, I should absolutely argue such issues out in the future. Such
 conflicts are unavoidable, and can even be productive! The question is, _how_
