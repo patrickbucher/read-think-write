@@ -1,5 +1,5 @@
 ---
-title: "Procrastination Reveals Conflicts"
+title: "Procrastination Reveals Conflict"
 date: 2025-02-09T09:42:25+01:00
 ---
 
