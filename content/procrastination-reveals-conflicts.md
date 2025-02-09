@@ -3,18 +3,18 @@ title: "Procrastination Reveals Conflicts"
 date: 2025-02-09T09:42:25+01:00
 ---
 
-I'm re-reading Nial A. Fiore's _The Now Habit_ to once again tackle my issues
+I'm re-reading Neil A. Fiore's _The Now Habit_ to once again tackle my issue
 with procrastination, which is still my biggest struggle concerning my
 professional life. While few would describe me as a chronic procrastinator—I
 handed in my Bachelor's thesis one week early, for example—there are a lot of
 things I do procrastinate. My internal process is usually messier than the
-output I produce, and only I know the struggle involved to produce those
+output I produce, and only I know the struggle involved to achive those
 results.
 
 Having read _The Now Habit_ before, I struggled to implement the protocols
-described therein. I had a haunch that one major issue, which probably not
+described therein. I had a hunch that one major issue, which probably not
 applies to most readers, isn't discussed in the book: _unresolved_ or even
-_subconcious conflicts_.
+_undetected_ conflict.
 
 What I like about the book is that it avoids Freudian psychoanalysis; i.e.
 questions like _"What is wrong with me?"_ that only lead to more rumination
@@ -27,24 +27,24 @@ tend to be more conflict avoidant than extroverts, because arguing things out
 with other people drains the introvert's social battery, while just analyzing
 the conflict doesn't. (However, the avoidant behaviour of analyzing instead of
 arguing provides the introvert with good arguments for dealing with the
-conflict later.)
+conflict later. This could become useful.)
 
-One strong indicator for my haunch is that I hardly procrastinate in some areas
+One strong indicator for my hunch is that I hardly procrastinate in some areas
 of my life, while I procrastinate a lot in others. Writing papers or finishing
 school projects was never an issue, and neither is working on my personal
 projects. Programming within an organisation, however, is sometimes a huge
-issue. And as I reflected on the last 20 years, of which I spent most of the
-time as a software developer in different companies, I can clearly see the
+issue. And as I reflect on the last 20 years, of which I spent most of the time
+as a software developer in different companies, I can clearly see the
 correlation between unresolved conflicts at the workplace and procrastination.
 
 I love to program, but oftentimes I cannot get started. Once I think about a
 task, all possible kinds of issues and eventualities start to unfold. This is
 not bad per se, because my mind jumps on analyzing the task on autopilot, which
 does neither require discipline nor willpower. However, with all those
-stumbling blocks coming to my mind, I can't start writing code in a carefree
-manner; I'm already worrying about possible issues.
+stumbling blocks I'm becoming aware of, I can't start writing code in a
+carefree manner. I'm too worrying about all kinds of possible issues.
 
-One issue I frequently have is not of technical but of social nature: Even
+One issue I frequently have is not of a technical but of a social nature: Even
 though I have a solution in my mind that makes sense to me, I already
 anticipate the reaction of the other programmers working on the same code base.
 I had a lot of annoying discussions following the pattern _"Why did you do X
@@ -74,12 +74,12 @@ both the collaboration and the platform look promising, we might get serious
 about our collaboration. Until then, we'll only invest a couple of hours per
 week, which aren't compensated financially.
 
-In the first quarter, we collaborate on a mobile application, which is required
-to seriously tackle the market. I agreed to work on the backend. The app is
-supposed to be a rough but working prototype. Since time to market is crucial,
-the app is only a prototype, and the collaboration doesn't come with any
-obligations, the usual reasons for procrastinations—perfectionism, fear of
-failure or success—do not apply.
+In the first quarter of this year, the plan is to collaborate on a mobile
+application, which is required to seriously tackle the market. I agreed to work
+on the backend. The app is supposed to be a rough but working prototype. Since
+time to market is crucial, the app is only a prototype, and the collaboration
+doesn't come with any obligations, the usual reasons for
+procrastinations—perfectionism, fear of failure or success—do not apply.
 
 However, after the first hacking session, I found myself procrastinating on the
 project for multiple weeks. I first thought that I was still too busy for most
@@ -140,7 +140,7 @@ compensation.
 
 Therefore, I should absolutely argue such issues out in the future. Such
 conflicts are unavoidable, and can even be productive! The question is, _how_
-those conflicts are carried out. Are we arguing as peers and capable of
+those conflicts are carried out. Are we arguing as peers and are we capable of
 compromising in a way that works for both sides, or is one party required to
 concede all the time because the other party exercises power using appeals to
 anonymous and absent authority?
