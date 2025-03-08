@@ -16,8 +16,8 @@ their ideas, I made quite some progress in the last couple of years:
   absolutely want to get up early in the morning. And going to sleep in the
   evening is not something you put off, because you're looking forward to the
   next day, for which you'd like to recharge. In the last nine months, I only
-  missed roughly ten days when I had a cold (last fall) and a flu (this
-  winter).
+  missed roughly ten days when I had a cold (last fall), a lumbago, and a flu
+  (this winter).
 - **Joshua Fields Millburn**: In various books about minimalism, e.g.
   _Everything that Remains_, he showed me that life is better when you reduce
   your physical belongings to what you actually use. Credit also goes to other
