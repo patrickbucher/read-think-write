@@ -18,7 +18,7 @@ their ideas, I made quite some progress in the last couple of years:
   next day, for which you'd like to recharge. In the last nine months, I only
   missed roughly ten days when I had a cold (last fall) and a flu (this
   winter).
-- **Joshua Fields Milburn**: In various books about minimalism, e.g.
+- **Joshua Fields Millburn**: In various books about minimalism, e.g.
   _Everything that Remains_, he showed me that life is better when you reduce
   your physical belongings to what you actually use. Credit also goes to other
   minimalists (Ryan Nicodemus, Leo Babauta, Joshua Becker, Courtney Carver,
