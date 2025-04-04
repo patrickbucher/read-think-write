@@ -56,7 +56,7 @@ years old, but still does its job, I own a PocketBook InkPad with a large
 display that allows me to read programming books quite comfortably. I just
 discovered that I can upload my own fonts, and with a combination of the font
 Bitter (which I also use on this page), Lato, and Fantasque Sans Mono, reading
-technical books on that device finally became pleasure.
+technical books on that device finally became a pleasure.
 
 It's pleasurable enough that I decided to get rid of most of my technical books
 that I bought in a print/ebook bundle, only retaining the ebooks I can download

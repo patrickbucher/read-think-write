@@ -5,7 +5,7 @@ date: 2024-12-25T10:20:27+01:00
 
 People are often using the _Memories Instead of Things_ dichotomy, especially
 around Christmas. While it's true that hardly anybody around these parts needs
-more stuff (they'd just buy it, if they'd need it), adding some extraordinary
+more stuff (they'd just buy it, if they needed it), adding some extraordinary
 memories doesn't make for a good life either.
 
 Tastes differ, and while some people (especially Baby Boomers, I guess) find it
