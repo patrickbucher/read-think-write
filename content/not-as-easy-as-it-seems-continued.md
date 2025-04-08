@@ -1,5 +1,5 @@
 ---
-title: "Not as Easy as It Seems Continued"
+title: "Not as Easy as It Seems, Continued"
 date: 2025-04-08T09:42:48+02:00
 ---
 
