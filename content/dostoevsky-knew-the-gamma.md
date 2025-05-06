@@ -46,8 +46,8 @@ Male](https://www.youtube.com/watch?v=vhTFkUpB8zc&pp=ygURdm94aXZlcnNpdHkgZ2FtbWE
 Fyodor Pavlovitch:
 
 - compulsively needs to make a fool of himself,
-- suffers from an annoying level verbal incontinence by telling inappropriate
-  anecdotes (literal walls of text in the printed novel),
+- suffers from an annoying level of verbal incontinence by telling
+  inappropriate anecdotes (literal walls of text in the printed novel),
 - tries to pull himself up by pushing others down,
 - obviously lies to everybody—but especially to himself—without fooling anybody,
 - acts if he just pretended when he is finally called out for his dishonesty.
