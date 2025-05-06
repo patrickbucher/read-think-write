@@ -1,5 +1,5 @@
 ---
-title: "Dostoevsky Knew the Gamma"
+title: "Dostoyevsky Knew the Gamma"
 date: 2025-05-06T08:23:04+02:00
 ---
 
