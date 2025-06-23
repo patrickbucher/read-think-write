@@ -11,7 +11,7 @@ The assignment is about creating payslips. It involves calculating social securi
 
 This exclamation mark was literally there in the assignment; remember that for later. The students were supposed to write unit tests for various cases, e.g.:
 
-> a 16 year old apprentice with a _monthly_ salary of CHF 700.-
+> a 16 year old apprentice with a monthly salary of CHF 700.-
 
 I stated three rules and three specific examples. Now guess what deduction amount the unit test for the case above expected: Roughly half of the pairs got it wrong and expected _zero_ deductions. The four-eyes principle, which is a main selling point for pair programming, failed gloriously.
 
