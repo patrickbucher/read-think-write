@@ -22,3 +22,7 @@ draft: true
 - July 11/31
     - holiday & collapse
 - August 1-6 so far
+
+295 workout days with at least `64*13.5km` and `231*10km`
+
+total: roughly 2400km
