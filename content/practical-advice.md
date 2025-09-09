@@ -43,7 +43,7 @@ their ideas, I made quite some progress in the last couple of years:
   quite far: I haven't played any computer games for over a year now, and
   hardly watch videos. Having been a very light and only occasional user of
   social media, I've now banned it completely from my life. The constant cost
-  of using it far outhweighs its occasional benefits.
+  of using it far outweighs its occasional benefits.
 
 Even though other thinkers (Nassim Taleb, Arthur Schopenhauer, Henry David
 Thoreau, Ivan Illich, Erich Fromm, Eugen Drewermann, Neil Postman, Edsger

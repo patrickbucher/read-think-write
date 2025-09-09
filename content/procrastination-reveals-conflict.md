@@ -60,7 +60,7 @@ counterarguments. Instead, appeal to—absent and anonymous—authority is used,
 well as vague statements along the lines of _"nobody is doing it this way
 nowadays"_ or, even worse, by yelling _"Clean Code!"_.
 
-(Aside: The term _Clean Code_ ist just as manipulative as _Agile Software
+(Aside: The term _Clean Code_ is just as manipulative as _Agile Software
 Development_. Just look for synonyms and antonyms for the adjectives "clean"
 and "agile". You cannot argue against "clean" and "agile". Nobody wants "dirty"
 code or "sluggish" software development.)

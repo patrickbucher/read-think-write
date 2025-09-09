@@ -24,9 +24,9 @@ ideas. Summarized:
 > about them. The gap between intelligence and having new ideas is not a
 > wasteland of unrealized potential, but a resource for new discoveries.
 
-Again, the ability to write stands out as one of the qualities than can be
+Again, the ability to write stands out as one of the qualities that can be
 cultivated. The other ingredients—health, sleep, the lack of responsibilities
-and stress—are life-style choices that require prioritizing. (Earning less to
+and stress—are lifestyle choices that require prioritizing. (Earning less to
 have more time is a hard tradeoff to make.)
 
 The essay is the perfect text form to discover new ideas. I don't know if the

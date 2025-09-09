@@ -44,4 +44,4 @@ this very simple task, thereby wasting my time.
 
 Documenting this assignment was a good experience for me, because it
 accompanies my sentiment with data. There's way less smart-boyism (arguing
-about the task), but more negligence and lazyness than I anticipated.
+about the task), but more negligence and laziness than I anticipated.

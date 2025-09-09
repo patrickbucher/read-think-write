@@ -41,7 +41,7 @@ e.g. [#2](#2) referring to this post's title.
 If the page will get too long after 20 posts or so, I'd like to include
 pagination. But there will always be full blog posts displayed; no separate
 article pages being teased on a landing page. Pure simplicity. The only luxury
-is the font being used: _TeX Gyre Schola_, which weights ~200kb. It's not the
+is the font being used: _TeX Gyre Schola_, which weighs ~200kb. It's not the
 perfect font, but it has everything I want: serifs rendered nicely on a display,
 a nice italic style that can be combined with bold, and it looks rather bookish
 and conservative.
