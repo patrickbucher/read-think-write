@@ -20,10 +20,10 @@ us the following categories:
 - _Quadrant IV_: Activities we enjoy doing, but make us feel bad afterwards.
 
 Activities of quadrant I are pure pleasure. Those are playful activities we
-voluntarely do, like actual playing or having sex. However, the joy produced by
+voluntarily do, like actual playing or having sex. However, the joy produced by
 those activities decrease quickly (under the law of diminishing returns), and we
 need to find other activities to do. It's almost impossible to fill one's day
-only with purely enjoyable activities, which explains why idle billionairs are
+only with purely enjoyable activities, which explains why idle billionaires are
 so miserable.
 
 Quadrant II encompasses effortful but rewarding activities. Exercising on a
@@ -43,7 +43,7 @@ activity can be turned into a quadrant II activity.
 
 _First Insight_: If we start with an activity that feels awkward, we still might
 turn it around to become a rewarding endeavor. If we're happy with the result,
-we also judge the strenous process in a more positive light. Mindset and
+we also judge the strenuous process in a more positive light. Mindset and
 organisation are to a large extent techniques to turn quadrant III into quadrant
 II activities.
 
@@ -69,4 +69,4 @@ appeal.
 _Conclusion_: Quadrant I activities are enjoyable, but not sufficient for a good
 life, which requires mostly quadrant II activities. With the right mindset,
 quadrant III activities can be turned into quadrant II activities. Quadrant IV
-activities are harmful, but loose their appeal when abstaining from them.
+activities are harmful, but lose their appeal when abstaining from them.

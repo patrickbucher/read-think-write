@@ -59,7 +59,7 @@ Having been born in 1930, Dijkstra received most of his education during and
 after World War II. Back in those days, paper probably was rare and expensive.
 So you had to use it wisely. Even though paper became cheap later on, Dijkstra's
 writing and thinking style was shaped under the idea that you should get it
-right once you put in on paper.
+right once you put it on paper.
 
 He supposedly designed his algorithm for finding the shortest path between
 nodes in a weighted graph (named after him as [Dijkstra's
@@ -124,7 +124,7 @@ But most of their work supposedly took place in their minds before they put it
 onto the paper. Maybe the genius just has a bigger working memory.  The need to
 switch to paper comes up much later in the process. A genius knows how to
 organize his thoughts better without laying them out physically before them.
-And he's obviously not afraid to loose them.
+And he's obviously not afraid to lose them.
 
 Not being a genius, I feel quite comfortable developing my thinking _while_
 writing. Thinking about a problem for a long time just creates loops in my mind

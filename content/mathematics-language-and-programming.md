@@ -69,7 +69,7 @@ investigated before resorting to trial-error programming done so often. In that
 sense, I am rather mathematically inclined.
 
 English is not my native tongue, and I'm well aware of my limitations. This text
-probably contains a couple of mistakes, both gramatically and orthographically,
+probably contains a couple of mistakes, both grammatically and orthographically,
 and its style certainly could be improved by any high-school English teacher.
 
 German is my native tongue, but even there a good high-school German teacher

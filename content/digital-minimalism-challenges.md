@@ -66,7 +66,7 @@ learned a couple of things:
    If they have something important to announce, you'll find it there. The
    community's speculations usually turn out to be totally wrong and worthless.
    Wait for official information.
-3. With abstinence, harmful habits loose their appeal. Unfortunately, this isn't
+3. With abstinence, harmful habits lose their appeal. Unfortunately, this isn't
    that easy for substance addictions like alcohol and heroin. But for mild
    behavioral addictions, such as visiting a particular set of websites multiple
    times a day, a couple of days of restraint can already work wonders.

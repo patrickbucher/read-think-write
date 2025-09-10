@@ -15,7 +15,7 @@ Hardly anybody thinks perfect thoughts that can be put into writing unchanged,
 at least not about non-trivial subjects. However, some ideas, especially within
 precisely defined domains, can be formed completely in one's head; but usually
 those are rather paragraphs than entire texts. The need to explain an idea in
-writing puts unconcious knowledge to conscience. Writing might not be the best
+writing puts unconscious knowledge to conscience. Writing might not be the best
 way to improve one's understanding of every subject, but it always helps.
 Writing is the steeper hill than talking, because it lacks tone and voice, but
 allows for and requires more iterations. Thoughts that aren't put under the test

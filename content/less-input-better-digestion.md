@@ -68,7 +68,7 @@ you write them down, you have to really think through them. Writing adds more
 nuance. When you think "students don't read properly nowadays", then it's just a
 random thought. Once you start writing it down, you wonder: "only _these_
 students here, or students _in general_?" and: "just _nowadays_, or how was it
-during my time as a students?".
+during my time as a student?".
 
 A written word has more weight than one solely existing in your mind. It
 reflects back from the page or screen and makes you think. Writing down a

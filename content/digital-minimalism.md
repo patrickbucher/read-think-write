@@ -46,7 +46,7 @@ So what am I putting on hold for the rest of the year?
    video examples in classes is also OK, but I won't research new examples for
    the time being. (Most students' attention span is below twenty seconds anyway,
    so videos are not helpful to grab their attention any longer.)
-2. _Social Media_: I temporarely deactivated my LinkedIn account earlier this
+2. _Social Media_: I temporarily deactivated my LinkedIn account earlier this
    year, and I don't feel the urge to reactivate it. I'll spend some time on the
    _German Debian Forum_, for which I'll write a couple of articles in December.
    I'll also participate in the discussions surrounding my articles, which is
@@ -61,9 +61,9 @@ So what am I putting on hold for the rest of the year?
    further down to zero checks per day, at least until the end of 2024.
 4. _Books_: I won't buy any books this month, but rather read those I already
    have, which are a lot. My worst addiction is buying books. Putting them on a
-   whish list, which I re-consider after a couple of weeks, saves a lot of money
+   wish list, which I re-consider after a couple of weeks, saves a lot of money
    and shelf space, because most books don't appeal to me a couple of weeks
-   later. And I rather have those books on a whish list than on my bookshelf—and
+   later. And I rather have those books on a wish list than on my bookshelf—and
    the money rather in my bank account than in Amazon's. I also must not check
    the websites of technical book publishers, which I do a lot, even though they
    just publish a new book once or twice a week.
@@ -89,7 +89,7 @@ do in December.
 Rowing for 10 kilometers every morning at five o'clock is a very beneficial
 habit. Since September 9th, I didn't miss a single day. If I stay healthy, I'd
 like to stick to it through the entire winter, except when spending the night
-somehwere else, which is quite possible on Christmas.
+somewhere else, which is quite possible on Christmas.
 
 I'll also continue my [Daily Frontend
 Grind](https://github.com/patrickbucher/daily-frontend-grind-q4-2024), which is
@@ -98,5 +98,5 @@ Learning TypeScript isn't the most intellectually stimulating activity, but I
 just want to have that language available in my toolbox for the future.
 
 I'm looking forward to start my new year with a refreshed and uncluttered mind,
-which I'll plan to fill with [mathmematics](#8) and maybe the Elixir/Phoenix
+which I'll plan to fill with [mathematics](#8) and maybe the Elixir/Phoenix
 tech stack—and with a lot of good literature.

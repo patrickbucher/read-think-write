@@ -41,7 +41,7 @@ problems.
 Charlatans do not care about solving problems, they just want to sell a
 product. If those products contribute to a solution in any capacity, or if
 their use is even harmful (notwithstanding the opportunity costs of trying
-them) is nothing a charlatan looses sleep over. Just sell the solution, and let
+them) is nothing a charlatan loses sleep over. Just sell the solution, and let
 the customer deal with the problem: this is how to make a lot of many fast.
 
 Be wary, if…
