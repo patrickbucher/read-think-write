@@ -64,3 +64,5 @@ ashamed during the whole gathering.)
 The Gamma definitively exists, and he even existed back in czarist Russia of
 the 19th century. Fortunately, the cure also exists, and existed long ago, as
 Dostoyevsky put it very concisely into Father Zossima's mouth.
+
+_PS (2025-12-17)_: I just discovered that Vox Day, who coined the term "Gamma", pointed out the exact same on [his blog](https://voxday.net/2020/02/11/dostoevsky-knew-the-gamma/) five years ago. Funny enough, I used the exact same title as he did. (I've been following his blog since 2021, so I haven't read this post before.) So I applied his definition of a _Gamma Male_ correctly in this case.
