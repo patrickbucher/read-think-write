@@ -3,11 +3,11 @@ title: "Disruptors Are Going to Be Disrupted"
 date: 2026-04-28T07:24:03+02:00
 ---
 
-The other day, I saw a post on LinkedIn how AI is supposedly "eating the world". As evidence a graph showing the stock price of the company _Chegg_ was posted. Chegg is an "EdTech" company that provides "homework help", i.e. facilitates skipping them. Apparently, the stock ([CHGG](https://finance.yahoo.com/quote/CHGG)) was worth more than USD 100.- in 2021 and then suddenly fall, allegedly "because of AI".
+The other day, I saw a post on LinkedIn how AI is supposedly "eating the world". As evidence a graph showing the stock price of the company _Chegg_ was posted. Chegg is an "EdTech" company that provides "homework help", i.e. facilitates skipping them. Apparently, the stock ([CHGG](https://finance.yahoo.com/quote/CHGG)) was worth more than USD 100.- in 2021 and then suddenly fell, allegedly "because of AI".
 
 However, the steep decline of the stock already began in summer 2021. It fell from USD 90.- in July 2021 to USD 30.- in November 2021. The stock remained roughly on that level for 2022, has steadily fallen ever since, and now is only worth roughly one US dollar.
 
-In March 2020 the stock was worth roughly USD 40.- and then rose to its summer 2021 peak during the pandemic. So it is not only "AI eating the world", but also the pandemic coming to an end that made the stock fell.
+In March 2020 the stock was worth roughly USD 40.- and then rose to its summer 2021 peak during the pandemic. So it is not only "AI eating the world", but also the pandemic coming to an end that made the stock fall.
 
 However, my claim is that AI is not eating "the world" but rather "the homework". As I can see on a weekly basis in school, large language models (LLMs) are mainly used to do (or rather skip) homework. Such tasks are very well defined and must be formulated unambiguously, lest the teacher will answer a lot of questions and get results back he cannot judge or grade fairly. So homework and real-world tasks are hardly the same thing.
 
