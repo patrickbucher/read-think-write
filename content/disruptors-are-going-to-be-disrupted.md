@@ -11,7 +11,7 @@ In March 2020 the stock was worth roughly USD 40.- and then rose to its summer 2
 
 However, my claim is that AI is not eating "the world" but rather "the homework". As I can see on a weekly basis in school, large language models (LLMs) are mainly used to do (or rather skip) homework. Such tasks are very well defined and must be formulated unambiguously, lest the teacher will answer a lot of questions and get results back he cannot judge or grade fairly. So homework and real-world tasks are hardly the same thing.
 
-There was another post on LinkedIn on "AI disruption". The stock of Duolingo ([DUOL](https://finance.yahoo.com/quote/DUOL)) also considerably fell in the last couple of years. Funny enough, it went up considerabely from roughly USD 60.- to more than USD 500.- from 2023 to its peak in 2025. Since last spring, it has been falling to roughly one hundred USD. AI cannot account for this alone. And the stock graphs of CHGG and DUOL look entierely different, not showing any common "AI disruption pattern".
+There was another post on LinkedIn on "AI disruption". The stock of _Duolingo_ ([DUOL](https://finance.yahoo.com/quote/DUOL)) also considerably fell in the last couple of months. Funny enough, it went up considerabely from roughly USD 60.- to more than USD 500.- since 2023 to its peak in 2025. Since last spring, it has been falling to roughly one hundred USD. AI cannot account for this alone. And the stock graphs of CHGG and DUOL look entierely different, not showing any common "AI disruption pattern".
 
 But what is more interesting: Even if one accepts the premise that AI and LLMs are the reason for those falling stocks, the notion of "AI eating the world" is still absurd. AI/LLMs are mostly disrupting the disruptors. Chegg wanted to disrupt homework, now it is being disrupted. Duolingo wanted to disrupt language learning, now it lost billions in market capitalization.
 
@@ -31,6 +31,6 @@ Once more, the [Lindy effect](https://en.wikipedia.org/wiki/Lindy_effect) holds 
 
 - Online learning disrupted loose-leaf collections and is now being disrupted by LLMs. Textbooks are still around.
 - One way of homework cheating has been replaced by a more convenient way of doing so. Tutors and teachers are still around.
-- Music streaming mostly replaced music on CDs, which replaced music on tapes. Live concerts are still taking place.
+- Music streaming mostly replaced music on CDs, which replaced music on tapes. The vinyl is still spinning, and live concerts are still taking place.
 
 Dotcom companies—the cool kids of 1999—now face harsh realities. Boomers are not booming any longer. But those who live by the sword will die by the sword. No sympathies, no bailouts—just another wave of disruption.
